@@ -10,7 +10,7 @@ body {
 
 /* Sección HERO */
 .hero {
-  background: url("images/playa-club-edificio.jpg") center/cover no-repeat;
+  background: url("playa-club-edificio.jpg") center/cover no-repeat;
   min-height: 100vh;
   position: relative;
 }
@@ -55,3 +55,4 @@ body {
 footer {
   font-size: 0.9rem;
 }
+
